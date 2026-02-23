@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/packethost/packet-rb.svg)](https://travis-ci.org/packethost/packet-rb) ![](https://img.shields.io/badge/Stability-Experimental-red.svg)
 
+> [!WARNING]
+> With the upcoming EoL of Equinix Metal on June 30, 2026, this repo is being archived on February 28, 2026.
+
 Packet
 ======
 
